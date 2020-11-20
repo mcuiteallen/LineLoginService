@@ -1,0 +1,158 @@
+{
+	"buy": [
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_1.JPG",
+			"text": "20200707 賀成交"
+		},		
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_3.JPG",
+			"text": "20200629 賀成交"
+		},	
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_4.JPG",
+			"text": "20200627 賀成交"
+		},	
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_5.JPG",
+			"text": "20200627 賀成交"
+		},	
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_7.JPG",
+			"text": "20200626 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_8.JPG",
+			"text": "20200623 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_9.JPG",
+			"text": "20200622 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_11.JPG",
+			"text": "20200615 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_12.JPG",
+			"text": "20200612 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_14.JPG",
+			"text": "20200610 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_15.JPG",
+			"text": "20200608 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_16.JPG",
+			"text": "20200607 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_22.JPG",
+			"text": "20200603 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_18.JPG",
+			"text": "20200601 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_19.JPG",
+			"text": "20200601 賀成交"
+		},
+		{
+			"name": "",
+			"factory": "",
+			"type": "",
+			"year": "",
+			"owner": "",
+			"img": "/static/img/success/IMG_21.JPG",
+			"text": "20200515 賀成交"
+		}																																										
+	],
+	"home": [
+		{
+			"name": "home1",
+			"img": "/static/img/home/test1.jpg"
+		},
+		{
+			"name": "home2",
+			"img": "/static/img/home/test2.jpg"
+		}				
+	]
+}

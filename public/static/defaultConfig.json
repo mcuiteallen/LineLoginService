@@ -1,0 +1,157 @@
+{
+	"home": "Home",  
+	"logo": {
+	  "login": "DeviceOn.svg",
+	  "loginM": "DeviceOnM.svg",
+	  "inPage": "DeviceOn.svg"
+	},
+	"colors": {
+		"colorValueBackgroud": "",
+	  "colorValueDashbord":  "",
+	  "colorValueNavbar":    "",
+	  "colorValueSideBar":   "",
+	  "colorValueA":         "",
+	  "colorValueTheme":     "",
+	  "colorValueText":      "",
+	  "colorValueborder":    "",
+		"login": {
+			"colorTopBackgroud": "",
+			"colorBottomBackgroud": ""
+		}
+	 },
+	"navbar": {
+	  "color": true
+	},
+	"breadcrumbs": true, 
+	"grafanaAccount": "",
+	"grafana": "",
+	"menus": [
+		{
+			"default": true,
+			"enable": true,
+			"label": "deviceon.menu.home",
+			"router": "Home",
+			"icon": "fa-chart-pie"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.device",
+			"router": "Device",
+			"icon": "fa-desktop"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.account",
+			"router": "Account",
+			"icon": "fa-user"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.event",
+			"router": "EventAlert",
+			"icon": "fa-calendar-alt"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.ota",
+			"router": "OTA",
+			"icon": "fa-sync-alt"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.setting",
+			"router": "Setting",
+			"icon": "fa-cog"
+		},
+		{
+			"enable": true,
+			"label": "deviceon.menu.document",
+			"icon": "fa-book",
+			"menu": [
+				{
+					"enable": true,
+					"label": "deviceon.menu.submenu.faq",
+					"router": "faq",
+					"icon": "fa-file-alt"
+				},
+				{
+					"enable": true,
+					"label": "deviceon.menu.submenu.api",
+					"router": "api",
+					"icon": "fa-file-alt"
+				}
+			]
+		},
+		{
+			"enable": false,
+			"label": "deviceon.menu.customizeDashboard",
+			"icon": "fa-chart-area",
+			"tag": "dashboards",
+			"menu": [
+				{
+					"enable": true,
+					"label": "deviceon.menu.submenu.customizeDashboardSetting",
+					"router": "dashboards",
+					"icon": "fa-cog",
+					"type": "setting"
+				}
+			]
+		},
+		{
+			"enable": false,
+			"label": "deviceon.menu.addins",
+			"icon": "fa-puzzle-piece",
+			"tag": "addins",
+			"menu": [
+				{
+					"enable": true,
+					"label": "deviceon.menu.submenu.addinsSetting",
+					"router": "addins",
+					"icon": "fa-cog",
+					"type": "setting"
+				},
+				{
+					"enable": false,
+					"label": "deviceon.menu.poc",
+					"router": "POC",
+					"icon": "fa-battery-full"
+				},
+				{
+					"enable": false,
+					"label": "Table Example",
+					"router": "addins",
+					"path": "/static/addins/SampleAddin/table.html",
+					"icon": "fa-table"
+				},
+				{
+					"enable": false,
+					"label": "EChart Example",
+					"router": "addins",
+					"path": "/static/addins/SampleAddin/echart.html",
+					"icon": "fa-table"
+				},
+				{
+					"enable": false,
+					"label": "Event Example",
+					"router": "addins",
+					"path": "/static/addins/SampleAddin/Event.html",
+					"icon": "fa-table"
+				},
+				{
+					"enable": false,
+					"label": "Image Example",
+					"router": "addins",
+					"path": "/static/addins/SampleAddin/image.html",
+					"icon": "fa-table"
+				},
+				{
+					"enable": false,
+					"label": "Map Example",
+					"router": "addins",
+					"path": "/static/addins/SampleAddin/map.html",
+					"icon": "fa-table"
+				}
+			]
+		}
+	]
+}
